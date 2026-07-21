@@ -70,3 +70,16 @@ nav {
     object-fit: cover;
     border-radius: 5px;
 }
+#about {
+    padding: 40px 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+#about h2 {
+    margin-bottom: 15px;
+}
+
+#about p {
+    margin-bottom: 15px;
+}
