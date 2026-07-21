@@ -144,3 +144,19 @@ footer .social-links a {
 .contact button:hover {
     background-color: #444;
 }
+@media (max-width: 600px) {
+    nav {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .nav-links {
+        flex-direction: column;
+        text-align: center;
+        gap: 10px;
+    }
+
+    .hero h1 {
+        font-size: 28px;
+    }
+}
